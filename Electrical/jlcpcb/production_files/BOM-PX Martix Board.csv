@@ -1,0 +1,5 @@
+Comment,Designator,Footprint,LCSC
+ESP32-DEVKIT-V1,U1,MODULE_ESP32_DEVKIT_V1,
+Right Panel IDC,J3,IDC-Header_2x08_P2.54mm_Vertical,
+Left Panel IDC,J2,IDC-Header_2x08_P2.54mm_Vertical,
+PD 3.0 Deciever,J1,PinHeader_1x04_P2.54mm_Vertical,

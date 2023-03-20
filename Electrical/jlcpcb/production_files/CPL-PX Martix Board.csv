@@ -1,0 +1,5 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+J1,PD 3.0 Deciever,PinHeader_1x04_P2.54mm_Vertical,147.87,-93.2,-90.0,top
+J2,Left Panel IDC,IDC-Header_2x08_P2.54mm_Vertical,126.73,-58.144472,90.0,top
+J3,Right Panel IDC,IDC-Header_2x08_P2.54mm_Vertical,126.73,-47.0,90.0,top
+U1,ESP32-DEVKIT-V1,MODULE_ESP32_DEVKIT_V1,126.3575,-90.244472,0.0,top
