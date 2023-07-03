@@ -8,4 +8,4 @@ I would like to share the source files for the sake of recording what I did and 
 
 This uses an ESP32 DevKit DOIT v1 as the main controller, connected with 16P IDC Cables for the LED Panels, and a screw terminal for LED Power. This is all powered by a 5V PD3.0 Trigger.
 
-The PCB is made with KiCad, the 3D Models are made with FreeCad Realthunder Link Branch, and the software is made with Arduino IDE v2.
+The PCB is designed with KiCad, the 3D Models are made with FreeCad Realthunder Link Branch, and the Electronics are programmed with Arduino IDE v2.
